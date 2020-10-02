@@ -1,0 +1,18 @@
+.head{ background-color: black;
+        height: 190px;}
+.clsScroll{
+    height: 40px;
+    width: 200px;
+    overflow: scroll;
+     margin-left: -30;
+    text-align: center;
+}
+p{
+    color:white;
+    padding-left: 630px;
+}
+
+
+
+
+

@@ -1,0 +1,63 @@
+#img{height: 150px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 60px; 
+    cursor: pointer;}
+#head{ font-size: 30px; color: lightsalmon; }
+#suc{ margin-left: 190px;   font-size: 22px; }
+#pri{ margin-left: 20px;   font-size: 22px; }
+#blog{ margin-left: 20px;   font-size: 22px;}
+#head:hover{ text-decoration: underline;  cursor: pointer;}
+#suc:hover{ text-decoration: underline;  cursor: pointer; font-size: 23px;}
+#blog:hover{ text-decoration: underline;  cursor: pointer; font-size: 23px;}
+#pri:hover{ text-decoration: underline;  cursor: pointer; font-size: 23px;}
+
+.contain{
+    background-color:#34a8eb ;
+    height: 300px;
+}
+h4{
+   
+    padding-top: 80px;
+    text-align: center;
+    color: white;
+   
+}
+#btn:hover{
+ background-color: white;
+ color: #34a8eb;
+}
+.footer{
+    height: 500px;
+    background-color: black;
+}
+h3{
+    color: white;
+  padding-top: 50px;
+  padding-left: 90px;
+}
+#para1{
+    color: white;
+    font-size: 25px;
+    padding-left: 90px;
+}
+.vertical { 
+    border-left: 3px solid; 
+    height: 300px; 
+    position:absolute; 
+    left: 35%; 
+    margin-top: -240px;
+    
+} 
+.vertical1 { 
+    border-left: 3px solid; 
+    height: 300px; 
+    position:absolute; 
+    left: 70%; 
+    margin-top: -455px;
+    
+} #para2{
+    color: white;
+    font-size: 25px;
+    padding-left: 990px;
+}

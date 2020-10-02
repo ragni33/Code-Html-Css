@@ -1,0 +1,679 @@
+h1{
+    background-color:palevioletred;
+    font-size: 60px;
+    text-align: center;
+    width: 1590px;
+    height: 100px;
+    margin-top: 30px;
+    padding-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+h2{
+    font-size: 50px;
+}
+table{
+    margin-left: 40px;
+    
+}
+table #he{
+    background-color :lightblue;
+    font-size: 30px;
+
+}
+table #li{
+    background-color:red;
+    font-size: 30px;
+
+}
+table #be{
+    background-color: orange;
+    font-size: 35px;
+
+}
+table #na{
+    background-color: red;
+    font-size: 35px;
+
+}
+table #mg{
+    background-color: orange;
+    font-size: 30px;
+
+}
+table #H{
+    background-color: lightblue;
+    font-size: 35px;
+}
+table #k{
+    background-color: red;
+    font-size: 35px;
+
+}
+table #ca{
+    background-color: orange;
+    font-size: 35px;
+
+}
+table #sc{
+    background-color: yellow;
+    font-size: 35px;
+
+}
+table #ti{
+    background-color: yellow;
+    font-size: 35px;
+
+}
+table #v{
+    background-color:yellow;
+    font-size: 35px;
+
+}
+table #cr{
+    background-color: yellow;
+    font-size: 35px;
+
+}
+table #mn{
+    background-color:yellow;
+    font-size: 35px;
+
+}
+table #fe{
+    background-color: yellow;
+    font-size: 35px;
+
+}
+table #co{
+    background-color:yellow;
+    font-size: 35px;
+
+}
+
+table #ni{
+    background-color: yellow;
+    font-size: 35px;
+
+}
+table #cu{
+    background-color:yellow;
+    font-size: 35px;
+
+}
+
+table #zn{
+    background-color: yellow;
+    font-size: 35px;
+
+}
+table #ga{
+    background-color: green;
+    font-size: 35px;
+
+}
+table #ge{
+    background-color:lightgreen;
+    font-size: 35px;
+
+}
+table #as{
+    background-color: lightgreen;
+    font-size: 35px;
+
+}table #se{
+    background-color: lightblue;
+    font-size: 35px;
+
+}
+table #br{
+    background-color:blue;
+    font-size: 35px;
+
+}
+table #iff{
+    background-color: wheat;
+    font-size: 30px;
+}
+table #off{
+    background-color: wheat;
+    font-size: 30px;
+}
+table #kr{
+    background-color:palevioletred;
+    font-size: 35px;
+
+}table #O{
+    background-color:palevioletred;
+    font-size: 35px;
+
+}
+table #A{
+    background-color: blue;
+    font-size: 30px;
+}
+
+table #rb {
+    background-color:red;
+    font-size: 35px;
+
+}
+table #sr{
+    background-color: orange;
+    font-size: 35px;
+
+}
+table #Y{
+    background-color:yellow;
+    font-size: 35px;
+
+}
+
+table #zr{
+    background-color: yellow;
+    font-size: 35px;
+
+}
+table #nb{
+    background-color:yellow;
+    font-size: 35px;
+
+}
+
+table #mo{
+    background-color: yellow;
+    font-size: 35px;
+
+}
+table #tc{
+    background-color:yellow;
+    font-size: 35px;
+
+}
+table #ru{
+    background-color:yellow;
+    font-size: 35px;
+
+}
+table #rh{
+    background-color: yellow;
+    font-size: 35px;
+
+}table #pd{
+    background-color: yellow;
+    font-size: 35px;
+
+}
+table #ag{
+    background-color: yellow;
+    font-size: 35px;
+
+}
+table #cd{
+    background-color:yellow;
+    font-size: 35px;
+
+}
+
+table #in{
+    background-color: green;
+    font-size: 35px;
+
+}
+table #sn{
+    background-color:green;
+    font-size: 35px;
+
+}
+
+table #sb{
+    background-color:lightgreen;
+    font-size: 35px;
+
+}
+table #te{
+    background-color:lightgreen;
+    font-size: 35px;
+
+}
+
+table #i{
+    background-color: blue;
+    font-size: 35px;
+
+}
+table #xe{
+    background-color:palevioletred;
+    font-size: 35px;
+
+}
+
+table #cs {
+background-color: red;
+font-size: 35px;
+}
+
+
+table #ba {
+background-color: orange;
+font-size: 35px;
+}
+table #hf {
+ background-color:yellow;
+font-size: 35px;
+}
+table #ta {
+    background-color: yellow;
+    font-size: 35px;
+    }
+table #w {
+background-color: yellow;
+font-size: 35px;
+}
+
+
+
+table #re {
+    background-color:yellow;
+   font-size: 35px;
+   }
+   table #os {
+       background-color: yellow;
+       font-size: 35px;
+       }
+   table #ir{
+   background-color: yellow;
+   font-size: 35px;
+   }
+   
+   
+
+
+   table #pt {
+    background-color:yellow;
+   font-size: 35px;
+   }
+   table #au{
+       background-color: yellow;
+       font-size: 35px;
+       }
+   table #hg{
+   background-color: yellow;
+   font-size: 35px;
+   }
+   
+   
+   table #t {
+    background-color:yellow;
+   font-size: 35px;
+   }
+   table #pb {
+       background-color: green;
+       font-size: 35px;
+       }
+   table #bi {
+   background-color: green;
+   font-size: 35px;
+   }
+   
+   table #po {
+    background-color:lightgreen;
+   font-size: 35px;
+   }
+   table #at {
+       background-color: blue;
+       font-size: 35px;
+       }
+   table #rn {
+   background-color: palevioletred;
+   font-size: 35px;
+   }
+   
+
+   table #fr {
+    background-color: red;
+    font-size: 35px;
+    }
+table #ra {
+background-color: orange;
+font-size: 35px;
+}
+
+table #rf {
+    background-color: yellow;
+    font-size: 35px;
+    }
+table #db {
+background-color: yellow;
+font-size: 35px;
+}
+
+table #sg{
+    background-color: yellow;
+    font-size: 35px;
+    }
+table #bh {
+background-color: yellow;
+font-size: 35px;
+}
+
+
+
+
+table #me {
+    background-color: green;
+    font-size: 35px;
+    }
+    
+    
+    
+table #hs{
+    background-color: yellow;
+    font-size: 35px;
+    }
+table #mt {
+background-color: yellow;
+font-size: 35px;
+}
+
+
+
+table #ds{
+    background-color: yellow;
+    font-size: 35px;
+    }
+table #rg {
+background-color: yellow;
+font-size: 35px;
+}
+
+table #cn{
+    background-color: yellow;
+    font-size: 35px;
+    }
+table #nh {
+background-color: green;
+font-size: 35px;
+}
+
+table #fi {
+    background-color: green;
+    font-size: 35px;
+    }table #mc {
+        background-color: green;
+        font-size: 35px;
+        }
+table #lv 
+{ background-color: lightblue;
+font-size: 35px;
+ }
+table #ts {
+ background-color: blue;
+font-size: 35px;
+}table #og {
+ background-color: palevioletred;
+  font-size: 35px;
+   }
+ 
+   table #la{
+       background-color: pink;
+       font-size: 35px;
+   }
+   table #ce{
+    background-color: pink;
+    font-size: 35px;
+}
+table #pr{
+    background-color: pink;
+    font-size: 35px;
+}
+table #nd{
+    background-color: pink;
+    font-size: 35px;
+}
+table #pm{
+    background-color: pink;
+    font-size: 35px;
+}
+table #sm{
+    background-color: pink;
+    font-size: 35px;
+}
+table #eu{
+    background-color: pink;
+    font-size: 35px;
+}
+table #gd{
+    background-color: pink;
+    font-size: 35px;
+}
+table #tb{
+    background-color: pink;
+    font-size: 35px;
+}
+
+table #dy{
+    background-color: pink;
+    font-size: 35px;
+}
+
+table #ho{
+    background-color: pink;
+    font-size: 35px;
+}
+
+table #er{
+    background-color: pink;
+    font-size: 35px;
+}
+  table #tm{
+    background-color: pink;
+    font-size: 35px;
+}
+table #yb{
+    background-color: pink;
+    font-size: 35px;
+}
+table #lu{
+    background-color: pink;
+    font-size: 35px;
+}
+ 
+
+
+
+
+table #lr{
+    background-color: pink;
+    font-size: 35px;
+}
+  table #no{
+    background-color: pink;
+    font-size: 35px;
+}
+table #md{
+    background-color: pink;
+    font-size: 35px;
+}
+table #fm{
+    background-color: pink;
+    font-size: 35px;
+}
+ 
+
+
+
+
+
+table #es{
+    background-color: pink;
+    font-size: 35px;
+}
+  table #cf{
+    background-color: pink;
+    font-size: 35px;
+}
+table #bk{
+    background-color: pink;
+    font-size: 35px;
+}
+table #cm{
+    background-color: pink;
+    font-size: 35px;
+}
+
+
+
+
+
+table #am{
+    background-color: pink;
+    font-size: 35px;
+}
+  table #pu{
+    background-color: pink;
+    font-size: 35px;
+}
+table #np{
+    background-color: pink;
+    font-size: 35px;
+}
+table #u{
+    background-color: pink;
+    font-size: 35px;
+}
+
+table #c{
+    background-color: pink;
+    font-size: 35px;
+}
+
+
+
+table #ac{
+    background-color: pink;
+    font-size: 35px;
+}
+  table #th{
+    background-color: pink;
+    font-size: 35px;
+}
+table #pa{
+    background-color: pink;
+    font-size: 35px;
+}
+
+table #ph{
+    background-color: pink;
+    font-size: 35px;
+
+}
+table #ae{
+background-color: pink;
+    font-size: 35px;
+}
+
+
+h3{
+    font-size: 30px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

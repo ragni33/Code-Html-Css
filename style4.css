@@ -1,0 +1,279 @@
+h3{
+color:white;
+margin-left: 100px;
+font-size: larger;
+ padding-top: 30px;
+}
+header{
+    background-color: black;
+    height: 110px;    
+}
+/* .img{
+ width: 40px;
+ height: 40px;
+ margin-top: 15px;
+ margin-left: 80px;
+margin-top: 70px;
+} */
+
+#job{
+    font-size: 25px; margin-left: 20px; cursor: pointer;
+}
+
+#job:hover{
+    
+    color: lightseagreen;
+  text-decoration: underline;
+      
+       
+ }
+#log{
+    font-size: 25px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#log:hover{
+   
+    color: lightseagreen;
+  text-decoration: underline;
+      
+       
+ }
+#blog{
+    font-size: 25px;margin-left: 300px; 
+    cursor: pointer;
+}
+#blog:hover{
+
+    color:lightseagreen;
+   text-decoration: underline;
+       
+ }
+
+#lib{
+    font-size: 25px;margin-left: 15px; cursor: pointer;
+  cursor: pointer;
+}
+#lib:hover{
+    
+    color: lightseagreen;
+  text-decoration: underline;
+      
+}
+
+#com{
+    font-size: 25px;margin-left: 10px; cursor: pointer;
+}
+
+#com:hover{
+    
+    color: lightseagreen;
+  text-decoration: underline;
+      
+       
+ }
+.div1{
+    background-color:darkcyan;
+    height: 392px; 
+}
+.div2{
+    background-color: teal;
+    height: 391px;
+    width: 1260px;
+   margin-left: 50px;
+   
+}
+.div3{
+ 
+    width: 820px;
+    height: 82px; 
+    color: white;
+    
+    margin-left: 30px;
+    /* margin-top: 90px; */
+    
+}
+/* .div3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: lightseagreen;
+} */
+/* .div3 img{
+    box-shadow: 5px  5px 5px black;
+} */
+.div3 img:hover{
+    cursor: pointer;
+    transform: scale(1.0);
+    border-style: groove;
+    border-color: black;
+    box-shadow: 5px  5px 5px black;
+}
+h1{
+    padding-top: 20px;
+    padding-left: 60px; 
+}
+body{
+    background-color: lightgray;
+}
+#text{
+    padding-top: 40px;
+    padding-left: 30px;
+}
+#fb{
+    width:35px;height:32px;margin-left: 10px; cursor: pointer;
+}
+
+#insta{
+    width:49px; height:49px;  margin-left: 10px;cursor: pointer;
+}
+
+#twi{
+   width:35px; height:32px; margin-left: 10px; cursor: pointer;
+}
+#mail{
+    width:35px; height:32px; margin-left: 19px; cursor: pointer;
+}
+#fb:hover {   transform: scale(1.2);}
+#mail:hover {
+    transform: scale(1.2);
+}#insta:hover{
+    transform: scale(1.2);
+}#twi:hover{
+    transform: scale(1.2);
+}
+
+.card{
+    margin-left: 900px;
+    margin-top: -390px;
+    box-shadow: 5px 5px 5px black;
+    
+}
+#para{
+    font-size: 22px; padding-left: 60px;
+    
+}
+#para:hover{
+    background-color: lightgray;
+    box-shadow: 2px  2px 2px 1px ;
+    cursor: pointer;
+}
+.box{
+    height: 350px;
+    background-color: skyblue;
+}
+.box2{
+    height: 350px;
+    background-color:steelblue;
+    margin-left: 60px; width: 1220px;
+}
+.box3{
+    background-color: skyblue;
+    width: 1220px; height: 70px;
+     color: black;
+}
+h2{
+   padding-top: 15px;
+}
+.footer{
+    background-color: black;
+    height: 540px; 
+}
+#fo:hover{
+     cursor: pointer;
+    text-decoration: underline; 
+}
+#face{
+    width:35px; 
+    height: 35px;
+    margin-left: 20px;
+     cursor: pointer;
+     margin-top: 195px;
+}
+#gmail{
+    width:35px; 
+    height: 35px; 
+    margin-left: 20px;
+     cursor: pointer;
+     margin-top: 195px;
+}
+
+#twitter{
+    width:35px; 
+    height: 35px;
+    margin-left: 20px;    
+     cursor: pointer;
+     margin-top: 195px;
+}
+#in{
+    width:39px; 
+    height: 39px;
+     cursor: pointer;
+     margin-top: 195px;
+   margin-left: 20px;
+    }
+    #face:hover{
+        transform: scale(1.1);
+     margin-right: 10px;
+        cursor: pointer; border-radius: 100px;
+    }
+    #gmail:hover{
+        transform: scale(1.1);
+     margin-right: 10px;
+        cursor: pointer;
+        border-radius: 100px;
+    }
+    #twitter:hover{
+        transform: scale(1.1);
+     margin-right: 10px; border-radius: 100px;
+        cursor: pointer; 
+    }
+    #in:hover{
+        transform: scale(1.1);
+     margin-right: 10px; border-radius: 100px;
+        cursor: pointer; 
+    }
+   .card-text:hover{
+       cursor: pointer;
+       color: darkblue;
+       border-style: groove;
+       font-weight: bold;
+       background-color: whitesmoke;
+       border: thistle;
+   }
+    .card-img-top{
+    cursor: pointer; 
+}
+   .title:hover{
+  cursor: pointer;
+ color: darkblue;
+  text-decoration: underline;
+   }   
+   .card-img-top:hover{
+   transform: scale(1.2);
+
+}
+.card-body h5:hover{
+    background-color :dodgerblue;
+
+}
+#c1
+{
+margin-left: 50px;
+ margin-top: 120px;
+  height: 340px;
+}
+#c2{
+margin-left: 460px; 
+margin-top: -330px;
+height: 340px;}
+#c3{
+    margin-left: 885px; margin-top: -340px; height: 340px;
+}
+#submit{
+margin-left: 1030px; height: 40px; color:white;
+}
+#connect{
+    margin-left: 380px; margin-top: 200px; 
+    color: white; height: 47px; width: 190px; 
+    font-size: 20px;
+}

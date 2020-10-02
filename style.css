@@ -1,0 +1,104 @@
+@import  url('https://fonts.googleapis.com/');
+body
+{
+   font-family: 'roboto' , sans-serif;
+}
+
+*{
+
+margin: 0;
+padding: 0;
+list-style: none;
+text-decoration: none;
+}
+.sidebar{
+    
+   
+      position: fixed; left: 0px; width: 300px; height: 100%; background-color:#666699; height: 1200px;
+}
+.sidebar header{
+    font-size: 25px;
+    color: white; 
+    line-height: 90px; background: #063146;
+    user-select: none;
+    padding-left: 100px; font-style: initial; 
+}
+.sidebar ul a{
+    display: block; height: 100%; width: 100%; line-height: 65px; font-size: 22px; color: white;
+
+ padding-left: 80px; 
+ box-sizing: border-box;
+ border-top: 1px solid white;
+border-bottom: 1px solid black;
+transition: .4s;
+
+}
+ul li:hover a{
+    font-size: 30px;
+    color: black;
+      padding-left: 90px;
+      font-weight: bold;
+
+}
+
+.sidebar ul a i{
+    margin-right: 15px;
+}
+/* #check{
+    display: none;
+}
+
+ label #btn , label #cancel{
+
+      position: absolute; 
+      cursor: pointer;
+      color: #042331;
+      border-radius: 3px;
+} 
+label #btn{
+    left: 40px;
+    top: 25px;
+    font-size: 35px; 
+    color:white;
+    padding: 6px 12px;
+}
+label #cancel{
+    z-index: 1111;
+    left: 195; top: 17px; font-size: 30px;
+} */
+/*
+ .responsive{
+   
+    height: auto;
+    width:1050px; 
+    padding-left:302px;
+     background-color: whitesmoke; height: 620px;
+       
+}
+
+ @media only screen and (max-width: 1050px) {
+    .responsive {
+     width: 800px;
+    }
+  }@media only screen and (max-width: 800px) {
+    .responsive {
+     width: 400px;
+    }
+  } 
+
+  @media only screen and (max-width: 400px) {
+    .sidebar{
+     width: 200px;
+     height: 90px;
+    }
+  }  */
+
+  
+  .responsive{
+   
+    height: auto;
+    width:1360px; 
+    padding-left:302px;
+     background-color: whitesmoke; height: 620px;
+       
+}

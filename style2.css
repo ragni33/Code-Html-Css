@@ -1,0 +1,138 @@
+body{
+    background-color:steelblue;
+   text-align: start;
+    
+}
+.dash{
+    width: 1350px;
+    height: 2020px; 
+    background-color: steelblue;
+}
+#dash:hover{
+    cursor: pointer;
+    color: teal;
+}
+h1{
+    font-size: 40px;
+  padding-top: 30px;
+    padding-left: 60px;
+}
+h1:hover{
+   color: whitesmoke;
+}
+.en{
+    background-color: whitesmoke;
+    width: 280px; height: 55px;
+    padding-left: 30px;   margin-left: 35px; 
+    margin-top: 20px;
+     box-shadow: 5px 5px  5px black;
+    
+}
+.sec{
+    background-color: whitesmoke;
+    width: 280px; height: 55px;
+    padding-left: 30px; padding-top: -30px;
+    margin-left: 360px; 
+    margin-top: -99px;   
+    box-shadow: 5px 5px 5px black;
+}.th{
+    background-color: whitesmoke;
+    width: 280px; height: 59px;
+    padding-left: 30px;
+    margin-left: 700px;
+    margin-top: -100px;
+    
+    box-shadow: 5px 5px 5px  black;
+}
+
+/* #c1:hover{
+  cursor: pointer;
+  border-color: black;
+  border-style: groove;
+} */
+
+.fo{
+    background-color: whitesmoke;
+    width: 280px; height: 59px;
+    padding-left: 30px;
+    margin-left: 1040px;
+    margin-top: -60px;
+    box-shadow: 5px 5px 5px 5px black;
+
+
+}
+
+.card1{
+    background-color:whitesmoke;
+    width: 280px; height: 370px;
+    padding-left: 30px;
+    margin-left: 700px;
+    margin-top: -20px;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.card2{
+    background-color: whitesmoke;
+    width: 280px; height: 370px;
+    padding-left: 30px;
+    margin-left: 360px;
+    margin-top: -370px;
+    box-shadow: 5px 5px 5px 5px black;
+}.card3{
+    background-color: whitesmoke;
+    width: 280px; height: 370px;
+    padding-left: 30px;
+    margin-left: -350px;
+    margin-top: -395px;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.open{
+
+
+    background-color:whitesmoke;
+    width: 625px;
+    height: 300px;
+    margin-left: 310px;
+    box-shadow: 5px 5px 5px 5px black;
+   
+    margin-right:-90px;
+}.open1{
+
+
+    background-color: whitesmoke;
+    width: 610px;
+    height: 300px;
+    margin-left: -350px;
+    box-shadow: 5px 5px 5px 5px black;
+   margin-top: -299px;
+    margin-right:-40px;
+}.open3{
+
+    
+    background-color: whitesmoke;
+    width: 1044px;
+    height: 210px;
+    margin-left: -400px;
+    box-shadow: 5px 5px 5px black;
+   margin-top: -20px;
+    margin-right:-90px;
+}
+.tab{
+    width: 1040px;
+    height: 331px;
+    background-color: whitesmoke;
+    margin-left: -395px;
+}
+/* @media only screen and (max-width: 600px) {
+body{
+
+      width: 400px;
+    }
+  } */
+  .card4{
+    background-color: whitesmoke;
+    width: 280px; height: 370px;
+    padding-left: 30px;
+    margin-left: 1040px;
+    margin-top: -370px;
+    box-shadow: 5px 5px 5px black;
+}

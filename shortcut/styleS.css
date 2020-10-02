@@ -1,0 +1,138 @@
+header{
+    background-color: lightsalmon;
+    height: 110px;
+}
+h4{
+    margin-left: 90px;
+    padding-top: 40px;
+ 
+}
+
+.container{
+    background-color: black;
+    height: 610px;
+    margin-top: 40px;
+    width: 10px;
+    border-radius: 25px;
+    
+}
+h1{
+    color: white;
+    margin-left: 590px;
+    font-style: initial;   
+    padding-top: 40px;
+}
+#name{
+    margin-left: 596px;
+    height: 45px;
+    width: 235px;
+    text-align: center;
+}#last{
+    margin-left: 596px;
+    height: 45px;
+    width: 235px;
+    text-align: center;
+
+}#mail{
+    margin-left: 596px;
+    height: 45px;
+    width: 235px;
+    text-align: center;
+    
+}
+#pass{
+    margin-left: 596px;
+    height: 45px;
+    width: 235px;
+    text-align: center;
+    
+}
+#exampleInputEmail1{
+    margin-left: 596px;
+    height: 45px;
+    width: 235px;
+    text-align: center;
+    
+    
+}
+#button
+{
+margin-left: 596px;
+height: 45px;
+width: 235px;
+text-align: center;
+background-color: orange;
+color: white;
+}
+.div{
+background-color: white;
+width: 335px;
+height: 430px;
+margin-top: -430px;
+margin-left: 120px;
+}
+#twitter{
+    margin-top: 30px;
+    background-color: #03a5fc;
+    text-align: center;
+    height: 40px;
+    width: 300px;
+    margin-left: 20px;
+    color: white; padding-top: 6px; font-size: 18px;
+}
+#facebook{
+
+    margin-top: 10px;
+    background-color: #0f03fc;
+    text-align: center;
+    height: 40px;
+    width: 300px;
+    margin-left: 20px; padding-top: 6px; font-size: 18px;
+    color: white; 
+}
+
+#linkdin{
+
+    margin-top: 10px;
+    background-color: #03b5fc;padding-top: 6px; font-size: 18px;
+    text-align: center;
+    height: 40px;
+    width: 300px;
+    margin-left: 20px;
+    color: white; 
+}
+#gmail{
+    margin-left: 20px;
+    width: 296px;
+    height: 40px;
+    text-align: center;
+}
+
+#password{
+    margin-left: 20px;
+    width: 296px;
+    height: 40px;
+    text-align: center;
+    margin-top: -10px;
+}
+#create{
+ 
+    margin-top: 10px;
+    background-color:#03a5fc ;
+    text-align: center;
+    height: 40px;
+    width: 300px;
+    margin-left: 20px;
+    color: white; 
+}
+#in:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+hr {
+ width: 590px;
+ color: black;
+}
+#btn{
+    margin-left: 30px;
+}
